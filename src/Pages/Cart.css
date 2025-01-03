@@ -1,0 +1,16 @@
+.cart-icon{
+    margin-top: 30px;
+    font-size: 400px;
+    display:flex;
+    justify-content: center;
+}
+.main-container{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    width: 100vw;
+}
+button{
+    margin-bottom: 20px;
+}

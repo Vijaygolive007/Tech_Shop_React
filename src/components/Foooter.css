@@ -1,0 +1,24 @@
+.sub-button{
+    background-color: #f50505;
+    color: white;
+    border: 0px;
+    padding: 7px 15px;
+}
+.footer-head{
+    margin-bottom: 30px;
+}
+.footer-list{
+    padding:5px;
+    
+}
+.link-list-item{
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+}
+.footer-list-container{
+    list-style-type: none;
+}
+footer{
+    background-color: black;
+}

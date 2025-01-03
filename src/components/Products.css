@@ -1,0 +1,17 @@
+.check-button{
+    border: 0;
+    background-color: transparent;
+    color: white;
+}
+.original-price{
+    color: rgb(96, 94, 94);
+}
+.card-style{
+    color: white;
+}
+.product-heading{
+    background-color: black;
+}
+.strike-color{
+    color: rgb(94, 90, 90);
+}
