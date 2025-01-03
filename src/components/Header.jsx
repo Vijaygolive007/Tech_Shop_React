@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { FaUser, FaSearch, FaShoppingCart } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import ButtonsFaGoTw from './ButtonsFaGoTw.jsx';
-import "./header.css";
+import "./Header.css";
 import { useSelector } from "react-redux";
 import ProductSearch from "./ProductSearch.jsx";
 
